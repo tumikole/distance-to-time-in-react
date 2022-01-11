@@ -87,6 +87,8 @@ class CalculationInput extends Component {
                     value={flight}
                     onChange={this.handleChange}
                   />
+
+                  <input type="submit" value="Calculate" />
               
             </Form>
           <AvarageSpeed
