@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9520e6ae.css",
-    "main.js": "/static/js/main.602950c9.js",
-    "static/js/787.e9e95e4d.chunk.js": "/static/js/787.e9e95e4d.chunk.js",
-    "index.html": "/index.html",
-    "main.9520e6ae.css.map": "/static/css/main.9520e6ae.css.map",
-    "main.602950c9.js.map": "/static/js/main.602950c9.js.map",
-    "787.e9e95e4d.chunk.js.map": "/static/js/787.e9e95e4d.chunk.js.map"
+    "main.css": "/distance-to-time-in-react/static/css/main.9520e6ae.css",
+    "main.js": "/distance-to-time-in-react/static/js/main.3d628116.js",
+    "static/js/787.e3297958.chunk.js": "/distance-to-time-in-react/static/js/787.e3297958.chunk.js",
+    "index.html": "/distance-to-time-in-react/index.html",
+    "main.9520e6ae.css.map": "/distance-to-time-in-react/static/css/main.9520e6ae.css.map",
+    "main.3d628116.js.map": "/distance-to-time-in-react/static/js/main.3d628116.js.map",
+    "787.e3297958.chunk.js.map": "/distance-to-time-in-react/static/js/787.e3297958.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9520e6ae.css",
-    "static/js/main.602950c9.js"
+    "static/js/main.3d628116.js"
   ]
 }
